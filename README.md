@@ -1,3 +1,7 @@
+# Для работы методов PUT, UPDATE, DELETE и BD, нужно будет запусть JSON server сервер:
+
+json-server --watch db.json --port "любой свободный порт"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

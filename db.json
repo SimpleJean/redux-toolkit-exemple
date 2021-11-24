@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 10,
+      "title": "1111",
+      "body": "typicode"
+    },
+    {
+      "id": 11,
+      "title": "json-server 11",
+      "body": "typicode"
+    },
+    {
+      "title": "asdasd",
+      "body": "asdasd",
+      "id": 12
+    },
+    {
+      "title": "new post",
+      "body": "new post",
+      "id": 13
+    },
+    {
+      "title": "new lol",
+      "body": "new lol",
+      "id": 14
+    },
+    {
+      "title": "567",
+      "body": "567",
+      "id": 15
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
